@@ -1,3 +1,3 @@
-FROM khainezayye:heroku
+FROM khainezayye/mltb:heroku
 
 CMD ["bash", "start.sh"]
